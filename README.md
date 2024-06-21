@@ -4,14 +4,15 @@
 <h3 align="center" >
     <img src="https://s12.gifyu.com/images/Sr3Vc.gif" alt="m1ss1On" width="60%" />
   <br>
-    Coding the Decentralized Future! 💻✨
+    Coding the Decentralized Future! 💻
   
   
   
 </h3>
-<p align="center" >
 
-Welcome to the decentralized future! I'm m1ss1On, a software developer who believes in the limitless potential of the Web3 ecosystem. I'm excited to be part of the movement to build a more just, transparent and open internet using the power of blockchain technology. Join me in my exploration of the Web3 world here, and together let's push the boundaries of innovation and create a better digital world for everyone!
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=17&duration=700&pause=100&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=810&height=120&lines=Welcome+to+the+decentralized+future!+I'm+m1ss1On%2C+a+software+developer+who+believes+in+the;limitless+potential+of+the+Web3+ecosystem.+I'm+excited+to+be+part+of+the+movement+to+build+a;more+just%2C+transparent+and+open+internet+using+the+power+of+blockchain+technology.+Join+me;+in+my+exploration+of+the+Web3+world+here%2C+and+together+let's+push+the+boundaries+of+innovation+;and+create+a+better+digital+world+for+everyone!" alt="Typing SVG" /></a> 
+</p>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=rust,solidity,javascript,vscode,github,arch,bash,git,gmail,debian,obsidian,ubuntu" />

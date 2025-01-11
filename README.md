@@ -2,7 +2,7 @@
     Hello 🐱‍👤, I'm m1ss1On
 </h1>
 <h3 align="center" >
-    <img src="https://s12.gifyu.com/images/Sr3Vc.gif" alt="m1ss1On" width="60%" />
+    <img src="https://s7.gifyu.com/images/SX1o4.webp" alt="m1ss1On" width="100%" />
   <br>
     Coding the Decentralized Future! 💻
   

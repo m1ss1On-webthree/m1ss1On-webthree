@@ -4,10 +4,9 @@
 <h3 align="center" >
     <img src="https://s13.gifyu.com/images/SXOMu.gif" alt="pentest" width="70%"/>
   <br>
-    Best for your business 💻
+    "Taking precautions is easier than dealing with the consequences."
   
-  
-  
+
 </h3>
 
 <p align="center">
@@ -15,13 +14,13 @@
 </p>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,javascript,vscode,github,arch,bash,git,gmail,debian,obsidian,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=kali,arch,linux,debian,python,rust,javascript,bash,pycharm,github,obsidian" />
 </div>
 <br>
-<p align="center"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=m1ss1On-webthree&show_icons=true&locale=en&theme=dark" alt="m1ss10n" /> 
-</p>
 <p align="center">
-    <img src="https://s2.gifyu.com/images/standard5d9b0342341dd575.gif" />
+    <img src="https://s13.gifyu.com/images/SXOsx.gif" />
 
+</p>
+<p align="center"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=ali-sunbul&show_icons=true&locale=en&theme=dark" alt="m1ss10n" /> 
 </p>

@@ -2,7 +2,7 @@
     Hello 🥷🏿, I'm XELOX (Ali Sünbül)
 </h1>
 <h3 align="center" >
-    <img src="https://s13.gifyu.com/images/SXOMu.gif" alt="pentest" width="70%"/>
+    <img src="https://s13.gifyu.com/images/SXOMu.gif" alt="XELOX" width="70%"/>
   <br>
     "Taking precautions is easier than dealing with the consequences."
   
@@ -18,7 +18,7 @@
 </div>
 <br>
 <p align="center">
-    <img src="https://s13.gifyu.com/images/SXOsx.gif" />
+    <img src="https://s13.gifyu.com/images/SXJ0G.gif" />
 
 </p>
 <p align="center"> 

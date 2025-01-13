@@ -1,8 +1,8 @@
 <h1 align="center">
-    Hello 🥷🏿, I'm XELOX (Ali Sünbül)
+    Hello 🥷🏿, I'm XELOXA (Ali Sünbül)
 </h1>
 <h3 align="center" >
-    <img src="https://s13.gifyu.com/images/SXOMu.gif" alt="XELOX" width="70%"/>
+    <img src="https://s13.gifyu.com/images/SXOMu.gif" alt="XELOXA" width="70%"/>
   <br>
     "Taking precautions is easier than dealing with the consequences."
   

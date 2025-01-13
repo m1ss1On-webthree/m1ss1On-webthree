@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello 🥷🏿, I'm Ali Sünbül (XELOX)
+    Hello 🥷🏿, I'm XELOX (Ali Sünbül)
 </h1>
 <h3 align="center" >
     <img src="https://s13.gifyu.com/images/SXOMu.gif" alt="pentest" width="70%"/>

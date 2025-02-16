@@ -25,6 +25,6 @@
     <a href="https://roadmap.sh/u/xeloxa">
     <img src="https://roadmap.sh/card/wide/67af3bc30a4602069bee8326?variant=dark&roadmaps=cyber-security%2Cpython" 
          alt="roadmap.sh"
-         width="510"/>
+         />
 </a>
 </p>

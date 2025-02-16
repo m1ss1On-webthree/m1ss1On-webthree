@@ -27,5 +27,5 @@
 </p>
 </p>
 <p align="center"> 
-<a href="https://app.daily.dev/xeloxa"><img src="https://api.daily.dev/devcards/v2/XWu7bqLN5jsCKwDR1V8Ce.png?type=default&r=pzf" width="356" alt="Ali Sünbül (XELOXA)'s Dev Card"/></a>
+<a href="https://app.daily.dev/xeloxa"><img src="./devcard.png" width="356" alt="Ali Sünbül (XELOXA)'s Dev Card"/></a>
 </p>

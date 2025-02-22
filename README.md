@@ -2,10 +2,8 @@
     Hello 🥷🏿, I'm XELOXA (Ali Sünbül)
 </h1>
 <h3 align="center" >
-    <img src="https://s13.gifyu.com/images/SXOMu.gif" alt="XELOXA" width="70%"/>
-  <br>
-    "Taking precautions is easier than dealing with the consequences."
-  
+    <img src="https://s3.gifyu.com/images/bS6Fo.png" alt="XELOXA" width="100%"/>
+
 </h3>
 
 <p align="center">
